@@ -60,7 +60,7 @@ int main()
 }
 ```
 
-##week08-1
+## week08-1
 ```cpp
 #include <stdio.h>
 int main()
@@ -78,7 +78,7 @@ int main()
 }
 ```
 
-##week08-2
+## week08-2
 ```cpp
 #include <stdio.h>
 int main()
@@ -100,7 +100,7 @@ int main()
 }
 ```
 
-##week08-3
+## week08-3
 ```cpp
 #include <stdio.h>
 int main()
@@ -118,7 +118,7 @@ int main()
 }
 ```
 
-##week04
+## week04
 ```cpp
 #include <stdio.h>
 int main()
